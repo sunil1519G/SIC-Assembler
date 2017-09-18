@@ -9,11 +9,14 @@ NOTES:-
 1. INSTRUCTIONS TO WRITE CODE
 
 	i) The program will be written in given format.
-	   format:-   symbol_field	opcode 		operand
+	
+	   format:-   symbol_field	  	opcode 		operand
+	   
 	   ex: 		ALPHA		LDA		BETA
 
 	ii) Each lines should start with a spacebar.
-	    ex:    "_ALPHA	LDA	BETA"	// where underscore(_) will be repaced by a single space.
+	
+	    ex:    "_ALPHA		LDA	BETA"	// where underscore(_) will be repaced by a single space.
 	
 	iii)There should not be any empty lines between the instructions/statements.
 
