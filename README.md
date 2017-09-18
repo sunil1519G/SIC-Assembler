@@ -2,6 +2,8 @@
 
 This is a SIC Assembler.
 
+This SIC Assembler is written in C++ using Code Blocks IDE.
+
 NOTES:-
 
 1. INSTRUCTIONS TO WRITE CODE
