@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1504634395 source:c:\workspace\cpp_workspace\codeblocks\sic assembler\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<iomanip>
+	<cmath>
+

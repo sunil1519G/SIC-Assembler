@@ -1,0 +1,23 @@
+NOTES:-
+
+1. INSTRUCTIONS TO WRITE CODE
+	i) The program will be written in given format.
+	   format:-   symbol_field	opcode 		operand
+	   ex: 		ALPHA		LDA		BETA
+
+	ii) Each lines should start with a spacebar.
+	    ex:    "_ALPHA	LDA	BETA"	// where underscore(_) will be repaced by a single space.
+	
+	iii)There should not be any empty lines between the instructions/statements.
+
+	iv)Press enter after writing the last instruction/statement.
+
+
+2. BUGS
+	i) Multiple comment lines can alter your output.
+
+
+Made by SUNIL THAPA.
+B.TECH, CS
+SEM: 5
+SEC: A
