@@ -28,8 +28,3 @@ NOTES:-
 	i) Multiple comment lines can alter your output.
 
 
-Made by SUNIL THAPA.
-
-B.TECH, CS
-
-SEM: 5 A
